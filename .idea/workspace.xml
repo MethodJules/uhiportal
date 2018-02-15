@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e7e5c58-ffa5-450d-a3ee-33945421f1cb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="7">
+    <drupalPath>C:\Users\hofer\docker\drupal\uhiportal</drupalPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shopping</find>
+      <find>#block-block-2</find>
+      <find>#block-block-1</find>
+      <find>class</find>
+      <find>logo</find>
+      <find>Vorsch</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.atlas.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.styles.css" />
+        <option value="$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews.install" />
+        <option value="$PROJECT_DIR$/sites/all/modules/custom/indekonews/helperfunctions.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews_newsletter_sceleton.inc" />
+        <option value="$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews_newsletter_preview.inc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="3026" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uhiportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uhiportal" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="uhiportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uhiportal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="uhiportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uhiportal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="all" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="uhiportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uhiportal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="all" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="uhiportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uhiportal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="all" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="custom" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="uhiportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uhiportal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sites" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="all" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="custom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news_trigger" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e7e5c58-ffa5-450d-a3ee-33945421f1cb" name="Default" comment="" />
+      <created>1517162463108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517162463108</updated>
+      <workItem from="1517162464603" duration="6763000" />
+      <workItem from="1517170302793" duration="1049000" />
+      <workItem from="1517171369888" duration="11522000" />
+      <workItem from="1517203046894" duration="599000" />
+      <workItem from="1517840041898" duration="9142000" />
+      <workItem from="1518280308182" duration="66000" />
+      <workItem from="1518596412008" duration="1072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30213000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34464476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.atlas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.atlas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1617">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77121">
+          <caret line="2337" column="19" lean-forward="true" selection-start-line="2337" selection-start-column="19" selection-end-line="2337" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="2557" column="54" lean-forward="false" selection-start-line="2557" selection-start-column="54" selection-end-line="2557" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/adaptivetheme/indeko7/css/global.atlas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/form_meetup/form_meetup_database.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/form_meetup/form_meetup.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/form_meetup/form_meetup.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/form_meetup/form_meetup.events.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/form_meetup/form_meetup.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/interestedGroups/interestedGroups.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews_admin_functions.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews_newsletter_user.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/news_trigger/news_trigger.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/helperfunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="60" lean-forward="false" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews_newsletter_project.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/news_trigger/news_trigger.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews_newsletter_preview.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <marker date="1518597253963" expanded="true" signature="519:580" ph="SELECT * FRO... newsletter_order" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews_newsletter_sceleton.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1654">
+          <caret line="170" column="37" lean-forward="true" selection-start-line="170" selection-start-column="37" selection-end-line="170" selection-end-column="37" />
+          <folding>
+            <marker date="1518597099207" expanded="true" signature="863:11882" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="872:1042" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="973:1032" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1143:11870" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1160:11858" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="1288:1313" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1314:11840" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1335:11819" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="1410:1442" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1443:11797" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="1612:1684" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1685:11726" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1718:3281" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1797:3247" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1921:3209" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="1966:3164" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="2061:2259" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="2260:2474" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="2581:2770" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="2771:3118" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="2923:2982" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="2983:3067" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="3314:6485" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="3379:6451" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="3500:6413" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="3545:4799" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="3629:4309" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="3674:4195" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4196:4259" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4380:4438" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4380:4439" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4380:4463" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4380:4500" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4380:4753" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4509:4703" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4586:4703" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="4831:6368" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="4917:5495" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="5496:5609" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="5692:6221" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="6222:6335" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="6517:9149" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="6582:9115" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="6702:9078" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="6747:8023" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="6842:7977" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="6903:7421" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="7422:7927" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="8068:9033" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="8158:8479" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="8480:8987" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="8626:8938" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="8705:8881" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="9234:11718" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="9295:11693" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="9476:9500" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="9501:11659" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="9542:11618" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="9645:9936" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="9937:10510" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="10010:10445" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="10080:10409" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="10118:10368" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="10165:10230" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="10231:10329" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="10447:10453" ph=" " />
+            <marker date="1518597099207" expanded="false" signature="10453:10459" ph=" " />
+            <marker date="1518597099207" expanded="false" signature="10459:10465" ph=" " />
+            <marker date="1518597099207" expanded="false" signature="10573:10595" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="10596:10642" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="10745:11051" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="11052:11576" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="11104:11524" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="11172:11490" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="11208:11451" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="11253:11318" ph="..." />
+            <marker date="1518597099207" expanded="true" signature="11319:11414" ph="..." />
+            <marker date="1518597099207" expanded="false" signature="11525:11531" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/indekonews/indekonews.generator.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="224" column="49" lean-forward="false" selection-start-line="224" selection-start-column="49" selection-end-line="224" selection-end-column="49" />
+          <folding>
+            <marker date="1517686257838" expanded="true" signature="7399:7485" ph="SELECT * FRO... newsletter_order" />
+            <marker date="1517686257838" expanded="true" signature="7573:7634" ph="UPDATE {news... " />
+            <marker date="1517686257838" expanded="true" signature="7695:7745" ph="DELETE FROM " />
+            <marker date="1517686257838" expanded="true" signature="8508:8709" ph="UPDATE {news... " />
+            <marker date="1517686257838" expanded="true" signature="9322:9395" ph="SELECT * FRO... newsletter_settings" />
+            <marker date="1517686257838" expanded="true" signature="10573:10646" ph="SELECT * FRO... newsletter_settings" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
